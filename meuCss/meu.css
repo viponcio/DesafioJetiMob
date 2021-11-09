@@ -9,3 +9,48 @@
     padding-right: 30px;
 
 }
+.imagem{
+    max-height: 100%;
+    max-width: none;
+    min-width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    z-index: 1;
+}
+label.columns.input-button.primary-bc.primary-bg-hover.primary-color{
+    background-color: rgba(15,33,138,0.9);
+}
+.topo{
+    top:5px;
+}
+.numerozinho{
+    right: auto;
+    left: 10px;
+    
+}
+.limite{
+    color: #fff;
+    font-size: 1.15em;
+    right: 0;
+    position: absolute;
+    left: auto;
+    text-shadow: 0 0 7px #000;
+    top: 10px;
+    z-index: 2;
+}
+
+.esquerda{
+    left: auto;
+    right: 10px;
+}
+.distintivo{
+    color: #fff;
+    font-size: 1.15em;
+    left: 0;
+    position: absolute;
+    right: auto;
+    text-shadow: 0 0 7px #000;
+    top: 10px;
+    z-index: 2;
+}
+background-color: rgba(15,33,138,0.9);
