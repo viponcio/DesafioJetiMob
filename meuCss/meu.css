@@ -24,8 +24,8 @@ label.columns.input-button.primary-bc.primary-bg-hover.primary-color{
     top:5px;
 }
 .numerozinho{
-    right: auto;
-    left: 10px;
+    left: auto;
+    right: 10px;
     
 }
 .limite{
@@ -38,10 +38,28 @@ label.columns.input-button.primary-bc.primary-bg-hover.primary-color{
     top: 10px;
     z-index: 2;
 }
-
+.baixo{
+    bottom: 200px;
+    top: auto;
+}
 .esquerda{
-    left: auto;
-    right: 10px;
+    left: 10px;
+    right: auto;
+    
+}
+.left{
+    left: 10px;
+    right: auto;
+    
+}
+.outrodistintivo{
+    color: #fff;
+    font-size: 1.15em;
+    left: 0;
+    /* position: absolute; */
+    right: auto;
+    top: 280px;
+    z-index: 2;    
 }
 .distintivo{
     color: #fff;
@@ -51,6 +69,31 @@ label.columns.input-button.primary-bc.primary-bg-hover.primary-color{
     right: auto;
     text-shadow: 0 0 7px #000;
     top: 10px;
+    z-index: 2;    
+}
+.linha{
+    margin: 15px auto;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-bottom: 15px;
+    margin-left: auto;
+    padding: 10px0;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+.cidade{
+    top: auto;
+    bottom: 330px;
+}
+.municipio{
+    color: #fff;
+    font-size: 1.15em;
+    left: 0;
+    position: absolute;
+    right: auto;
+    bottom: 350px;
     z-index: 2;
 }
 background-color: rgba(15,33,138,0.9);
