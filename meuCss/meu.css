@@ -96,4 +96,12 @@ label.columns.input-button.primary-bc.primary-bg-hover.primary-color{
     bottom: 350px;
     z-index: 2;
 }
+.borda {
+    background-color: yellow;
+    border-color: yellow;
+    border-top: 15px solid;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: initial;
+}
 background-color: rgba(15,33,138,0.9);
